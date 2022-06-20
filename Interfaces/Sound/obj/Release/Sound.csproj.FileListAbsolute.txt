@@ -1,0 +1,8 @@
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\Interfaces\Sound\bin\Release\Sound.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\Interfaces\Sound\bin\Release\Sound.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\Interfaces\Sound\bin\Release\Sound.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\Interfaces\Sound\obj\Release\Sound.csproj.AssemblyReference.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\Interfaces\Sound\obj\Release\Sound.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\Interfaces\Sound\obj\Release\Sound.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\Interfaces\Sound\obj\Release\Sound.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\Interfaces\Sound\obj\Release\Sound.pdb

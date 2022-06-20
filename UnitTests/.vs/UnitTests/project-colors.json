@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86edb75b-0c1a-4160-9052-245097dc23fe": {
+      "ProjectGuid": "86edb75b-0c1a-4160-9052-245097dc23fe",
+      "DisplayName": "UnitTests",
+      "ColorIndex": 0
+    },
+    "51d2d898-a6ff-4ea4-906b-94b9a3fa8380": {
+      "ProjectGuid": "51d2d898-a6ff-4ea4-906b-94b9a3fa8380",
+      "DisplayName": "UnitTests.Tests",
+      "ColorIndex": 1
+    },
+    "a77d621a-aee6-4ceb-b16e-41e57b105c14": {
+      "ProjectGuid": "a77d621a-aee6-4ceb-b16e-41e57b105c14",
+      "DisplayName": "Store",
+      "ColorIndex": 2
+    },
+    "e91ae554-6f4b-4a8b-b573-87cc0fbccaa7": {
+      "ProjectGuid": "e91ae554-6f4b-4a8b-b573-87cc0fbccaa7",
+      "DisplayName": "Store.Tests",
+      "ColorIndex": 3
+    },
+    "3dd43695-a070-4a6e-a55a-0d22439bb59b": {
+      "ProjectGuid": "3dd43695-a070-4a6e-a55a-0d22439bb59b",
+      "DisplayName": "Voting",
+      "ColorIndex": 4
+    },
+    "0843207f-495d-44ed-b7f2-bdecee5b3998": {
+      "ProjectGuid": "0843207f-495d-44ed-b7f2-bdecee5b3998",
+      "DisplayName": "Voting.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

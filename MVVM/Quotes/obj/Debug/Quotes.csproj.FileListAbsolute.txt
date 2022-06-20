@@ -1,0 +1,43 @@
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\bin\Debug\Quotes.exe.config
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\bin\Debug\Quotes.exe
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\bin\Debug\Quotes.pdb
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\bin\Debug\EntityFramework.dll
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\bin\Debug\EntityFramework.xml
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.csprojAssemblyReference.cache
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\MainWindow.g.cs
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\App.g.cs
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes_MarkupCompile.cache
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes_MarkupCompile.lref
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\MainWindow.baml
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.g.resources
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.Migrations.Initial.resources
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.Properties.Resources.resources
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.csproj.GenerateResource.cache
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.csproj.CopyComplete
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.exe
+C:\Users\jens.baetens3\Documents\PTT\Voorbereiding\CodeExamples_MVVM\Quotes\Quotes\obj\Debug\Quotes.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.csproj.AssemblyReference.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\MainWindow.g.cs
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\App.g.cs
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes_MarkupCompile.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes_MarkupCompile.lref
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\bin\Debug\Quotes.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\bin\Debug\Quotes.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\bin\Debug\Quotes.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\bin\Debug\EntityFramework.dll
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\bin\Debug\EntityFramework.xml
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\MainWindow.baml
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.g.resources
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.Migrations.Initial.resources
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.Properties.Resources.resources
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.csproj.GenerateResource.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\MVVM\Quotes\obj\Debug\Quotes.csproj.CopyComplete

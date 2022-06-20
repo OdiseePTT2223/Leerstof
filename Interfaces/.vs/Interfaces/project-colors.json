@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51a0bdf2-449a-4db7-a8f4-0fc2c9e1fa88": {
+      "ProjectGuid": "51a0bdf2-449a-4db7-a8f4-0fc2c9e1fa88",
+      "DisplayName": "Interfaces",
+      "ColorIndex": 0
+    },
+    "14526032-4c10-41dd-840a-7961ad58fe7f": {
+      "ProjectGuid": "14526032-4c10-41dd-840a-7961ad58fe7f",
+      "DisplayName": "InterfacesStart",
+      "ColorIndex": 1
+    },
+    "bdc3c837-d115-4783-a8f1-280aede7e18f": {
+      "ProjectGuid": "bdc3c837-d115-4783-a8f1-280aede7e18f",
+      "DisplayName": "InterfacesFirstSolution",
+      "ColorIndex": 2
+    },
+    "9edcd175-8e56-410f-8b97-d818db7fc783": {
+      "ProjectGuid": "9edcd175-8e56-410f-8b97-d818db7fc783",
+      "DisplayName": "Sounds",
+      "ColorIndex": 3
+    },
+    "807554ce-7064-4749-838c-381011a939ec": {
+      "ProjectGuid": "807554ce-7064-4749-838c-381011a939ec",
+      "DisplayName": "Bibliotheek",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "82dc6c41-ddde-49e0-9929-349580370fb7": {
+      "ProjectGuid": "82dc6c41-ddde-49e0-9929-349580370fb7",
+      "DisplayName": "Sound",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

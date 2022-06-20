@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "287e0179-821e-4f31-8fe7-f2cc49980ac0": {
+      "ProjectGuid": "287e0179-821e-4f31-8fe7-f2cc49980ac0",
+      "DisplayName": "Quotes",
+      "ColorIndex": 0
+    },
+    "7cb50966-3b11-438e-97f9-090cfe411c98": {
+      "ProjectGuid": "7cb50966-3b11-438e-97f9-090cfe411c98",
+      "DisplayName": "Quotes.Tests",
+      "ColorIndex": 1
+    },
+    "e3717ba7-ec20-4944-9ab6-28d7024519b0": {
+      "ProjectGuid": "e3717ba7-ec20-4944-9ab6-28d7024519b0",
+      "DisplayName": "QuotesMVVM",
+      "ColorIndex": 2
+    },
+    "a76fdcb2-f0d3-4097-b9a5-77c6bcf4edd4": {
+      "ProjectGuid": "a76fdcb2-f0d3-4097-b9a5-77c6bcf4edd4",
+      "DisplayName": "QuotesMVVM.Tests",
+      "ColorIndex": 3
+    },
+    "512d7b4f-b282-4a35-b072-344ba5ba9ad4": {
+      "ProjectGuid": "512d7b4f-b282-4a35-b072-344ba5ba9ad4",
+      "DisplayName": "QuotesCoordinator",
+      "ColorIndex": 4
+    },
+    "1881ca24-1373-46cd-8fc3-e3af360add33": {
+      "ProjectGuid": "1881ca24-1373-46cd-8fc3-e3af360add33",
+      "DisplayName": "QuotesCoordinator.Tests",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

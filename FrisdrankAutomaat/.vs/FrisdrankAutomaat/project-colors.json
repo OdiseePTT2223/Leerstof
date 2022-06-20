@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec85641e-5d0a-4c33-995d-4f7594840c22": {
+      "ProjectGuid": "ec85641e-5d0a-4c33-995d-4f7594840c22",
+      "DisplayName": "FrisdrankAutomaat",
+      "ColorIndex": 0
+    },
+    "599d581f-2b6f-43ae-8579-a1b4011b43aa": {
+      "ProjectGuid": "599d581f-2b6f-43ae-8579-a1b4011b43aa",
+      "DisplayName": "FrisdrankAutomaat.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

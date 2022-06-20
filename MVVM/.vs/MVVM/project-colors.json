@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "aea182d5-bf63-44d3-a8af-e2f135dc0ffb": {
+      "ProjectGuid": "aea182d5-bf63-44d3-a8af-e2f135dc0ffb",
+      "DisplayName": "MVVM",
+      "ColorIndex": 0
+    },
+    "64653c09-993b-4d56-9b1f-821151988ce9": {
+      "ProjectGuid": "64653c09-993b-4d56-9b1f-821151988ce9",
+      "DisplayName": "Quotes",
+      "ColorIndex": 1
+    },
+    "ec2100eb-476a-4c6d-8d08-87423a9fad7f": {
+      "ProjectGuid": "ec2100eb-476a-4c6d-8d08-87423a9fad7f",
+      "DisplayName": "QuotesMVVM",
+      "ColorIndex": 2
+    },
+    "5c2caee2-c8dc-4802-a18d-74dbcf2a1782": {
+      "ProjectGuid": "5c2caee2-c8dc-4802-a18d-74dbcf2a1782",
+      "DisplayName": "Quotes.Test",
+      "ColorIndex": 3
+    },
+    "940cddd9-7c07-4a50-9e69-c6cad98fb42a": {
+      "ProjectGuid": "940cddd9-7c07-4a50-9e69-c6cad98fb42a",
+      "DisplayName": "Quotes.MVVM.Tests",
+      "ColorIndex": 4
+    },
+    "3cda546e-9879-45c6-b244-52fa2e097ccf": {
+      "ProjectGuid": "3cda546e-9879-45c6-b244-52fa2e097ccf",
+      "DisplayName": "Quotes.MVVM+C",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

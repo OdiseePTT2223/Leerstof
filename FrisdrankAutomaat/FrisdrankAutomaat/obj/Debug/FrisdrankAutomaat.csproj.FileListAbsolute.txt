@@ -1,0 +1,16 @@
+G:\My Drive\PTT\Leerstof\Oefeningen\01_UnitTests\2021\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.exe.config
+G:\My Drive\PTT\Leerstof\Oefeningen\01_UnitTests\2021\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.exe
+G:\My Drive\PTT\Leerstof\Oefeningen\01_UnitTests\2021\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.pdb
+G:\My Drive\PTT\Leerstof\Oefeningen\01_UnitTests\2021\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csproj.AssemblyReference.cache
+G:\My Drive\PTT\Leerstof\Oefeningen\01_UnitTests\2021\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\PTT\Leerstof\Oefeningen\01_UnitTests\2021\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csproj.CoreCompileInputs.cache
+G:\My Drive\PTT\Leerstof\Oefeningen\01_UnitTests\2021\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.exe
+G:\My Drive\PTT\Leerstof\Oefeningen\01_UnitTests\2021\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\FrisdrankAutomaat\FrisdrankAutomaat\bin\Debug\FrisdrankAutomaat.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csproj.AssemblyReference.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\FrisdrankAutomaat\FrisdrankAutomaat\obj\Debug\FrisdrankAutomaat.pdb

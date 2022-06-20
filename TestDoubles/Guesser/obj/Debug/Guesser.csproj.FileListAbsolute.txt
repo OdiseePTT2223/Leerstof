@@ -1,0 +1,8 @@
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TestDoubles\Guesser\bin\Debug\Guesser.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TestDoubles\Guesser\bin\Debug\Guesser.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TestDoubles\Guesser\bin\Debug\Guesser.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TestDoubles\Guesser\obj\Debug\Guesser.csproj.AssemblyReference.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TestDoubles\Guesser\obj\Debug\Guesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TestDoubles\Guesser\obj\Debug\Guesser.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TestDoubles\Guesser\obj\Debug\Guesser.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TestDoubles\Guesser\obj\Debug\Guesser.pdb

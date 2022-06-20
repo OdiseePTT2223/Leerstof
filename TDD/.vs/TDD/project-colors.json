@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d655076c-f198-46b7-9eaf-22522f2a1852": {
+      "ProjectGuid": "d655076c-f198-46b7-9eaf-22522f2a1852",
+      "DisplayName": "TDD",
+      "ColorIndex": 0
+    },
+    "36db182f-b25c-4922-b224-55af25031dc6": {
+      "ProjectGuid": "36db182f-b25c-4922-b224-55af25031dc6",
+      "DisplayName": "TDD.Tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

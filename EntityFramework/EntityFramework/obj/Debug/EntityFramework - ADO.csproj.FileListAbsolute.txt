@@ -1,0 +1,7 @@
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EntityFramework\bin\Debug\EntityFramework.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EntityFramework\bin\Debug\EntityFramework.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EntityFramework\obj\Debug\EntityFramework - ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EntityFramework\obj\Debug\EntityFramework - ADO.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EntityFramework\obj\Debug\EntityFramework.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EntityFramework\obj\Debug\EntityFramework.pdb

@@ -1,0 +1,15 @@
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\bin\Debug\TDD.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\bin\Debug\TDD.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\bin\Debug\TDD.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\MainWindow.g.cs
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\App.g.cs
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD_MarkupCompile.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD_MarkupCompile.lref
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\MainWindow.baml
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD.g.resources
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD.Properties.Resources.resources
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD.csproj.GenerateResource.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\TDD\TDD\obj\Debug\TDD.pdb

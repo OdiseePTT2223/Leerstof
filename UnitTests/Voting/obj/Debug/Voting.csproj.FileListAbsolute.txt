@@ -1,0 +1,8 @@
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\Voting\bin\Debug\Voting.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\Voting\bin\Debug\Voting.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\Voting\bin\Debug\Voting.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\Voting\obj\Debug\Voting.csproj.AssemblyReference.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\Voting\obj\Debug\Voting.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\Voting\obj\Debug\Voting.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\Voting\obj\Debug\Voting.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\Voting\obj\Debug\Voting.pdb

@@ -1,0 +1,13 @@
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\bin\Debug\EF-Code First.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\bin\Debug\EF-Code First.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\bin\Debug\EF-Code First.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\bin\Debug\EntityFramework.dll
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\bin\Debug\EntityFramework.xml
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\obj\Debug\EF-Code First.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\obj\Debug\EF-Code First.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\obj\Debug\EF-Code First.csproj.CopyComplete
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\obj\Debug\EF-Code First.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\obj\Debug\EF-Code First.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\EntityFramework\EF-Code First\obj\Debug\EF-Code First.csproj.AssemblyReference.cache

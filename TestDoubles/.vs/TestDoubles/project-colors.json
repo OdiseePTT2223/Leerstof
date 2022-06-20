@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "07f85bff-7c3a-4c57-9bbc-d20293f08b1c": {
+      "ProjectGuid": "07f85bff-7c3a-4c57-9bbc-d20293f08b1c",
+      "DisplayName": "TestDoubles",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "c96c9dcf-56f7-4f70-8ba8-630cd053f237": {
+      "ProjectGuid": "c96c9dcf-56f7-4f70-8ba8-630cd053f237",
+      "DisplayName": "PersonAgeValidator",
+      "ColorIndex": 1
+    },
+    "e0ca945f-9825-4f9f-abc0-1dc3d8654afa": {
+      "ProjectGuid": "e0ca945f-9825-4f9f-abc0-1dc3d8654afa",
+      "DisplayName": "PersonAgeValidator.Tests",
+      "ColorIndex": 2
+    },
+    "9c460042-7071-4055-bf3a-a8428cfb7f75": {
+      "ProjectGuid": "9c460042-7071-4055-bf3a-a8428cfb7f75",
+      "DisplayName": "GradesHelper",
+      "ColorIndex": 3
+    },
+    "3139e541-5173-4fc0-95f9-1f6a0abbdcc3": {
+      "ProjectGuid": "3139e541-5173-4fc0-95f9-1f6a0abbdcc3",
+      "DisplayName": "GradesHelper.Tests",
+      "ColorIndex": 4
+    },
+    "a180c77c-f0e4-4995-b96e-e38ee1ee8a01": {
+      "ProjectGuid": "a180c77c-f0e4-4995-b96e-e38ee1ee8a01",
+      "DisplayName": "GradesHelper.TestsNSubstitute",
+      "ColorIndex": 5
+    },
+    "e179d57b-57b0-4ddd-a00e-97a8f5466312": {
+      "ProjectGuid": "e179d57b-57b0-4ddd-a00e-97a8f5466312",
+      "DisplayName": "Guesser",
+      "ColorIndex": 6
+    },
+    "3e1a7eda-987f-4340-8a00-2cc81e562ea0": {
+      "ProjectGuid": "3e1a7eda-987f-4340-8a00-2cc81e562ea0",
+      "DisplayName": "Guesser.Tests",
+      "ColorIndex": 7
+    },
+    "5c934d04-6135-4bb3-b734-1ec65eb7db56": {
+      "ProjectGuid": "5c934d04-6135-4bb3-b734-1ec65eb7db56",
+      "DisplayName": "PersonAgeValidator.Tests",
+      "ColorIndex": 8
+    },
+    "156488c6-a3b7-4a23-8452-dc00435279aa": {
+      "ProjectGuid": "156488c6-a3b7-4a23-8452-dc00435279aa",
+      "DisplayName": "GradesHelper.Tests",
+      "ColorIndex": 9
+    },
+    "da986e8f-dd17-4cf8-aada-c9b0d7dbc2a8": {
+      "ProjectGuid": "da986e8f-dd17-4cf8-aada-c9b0d7dbc2a8",
+      "DisplayName": "GradesHelperNSubstitute.Tests",
+      "ColorIndex": 10
+    },
+    "4d5c8f06-3685-4f64-bced-5274529721db": {
+      "ProjectGuid": "4d5c8f06-3685-4f64-bced-5274529721db",
+      "DisplayName": "Guesser.Tests",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

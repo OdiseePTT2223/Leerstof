@@ -1,0 +1,8 @@
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\UnitTests\bin\Debug\UnitTests.exe.config
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\UnitTests\bin\Debug\UnitTests.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.SuggestedBindingRedirects.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\UnitTests\obj\Debug\UnitTests.exe
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\jens.baetens3\OneDrive - ODISEE\PTT\21-22\Leerstof\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
